@@ -1,10 +1,8 @@
--- =====================================================================
--- ARCHIVO 2: CONSULTAS SQL
+
+-- CONSULTAS SQL
 -- Curso: Data Analytics para los Negocios
 -- Caso de negocio: TechCusco - Tienda online de tecnología
--- Requisito: haber ejecutado antes 01_creacion_tablas.sql
--- Tip: en Supabase, selecciona cada consulta y pulsa "Run selected"
--- =====================================================================
+
 -- ---------------------------------------------------------------------
 -- CONSULTA 1: SELECT básico con filtro y orden
 -- Productos con precio mayor a S/ 500, del más caro al más barato
