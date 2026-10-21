@@ -1,9 +1,8 @@
--- =====================================================================
 -- ARCHIVO 1: CREACIÓN DE TABLAS, RELACIONES Y DATOS DE EJEMPLO
 -- Curso: Data Analytics para los Negocios
 -- Caso de negocio: TechCusco - Tienda online de tecnología
 -- =====================================================================
----------
+                                                                                                        
 DROP TABLE IF EXISTS detalle_pedido CASCADE;
 DROP TABLE IF EXISTS pedidos        CASCADE;
 DROP TABLE IF EXISTS productos      CASCADE;
